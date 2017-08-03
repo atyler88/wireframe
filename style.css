@@ -1,0 +1,42 @@
+body {
+	background-color: #777777;
+	width: 960px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px
+}
+header {
+	background-color: #EBEBEB;
+	text-align: center;
+}
+nav {
+	background-color: #EBEBEB;
+	text-align: center;
+}
+section {
+	background-color: #EBEBEB;
+	width: 495px;
+	text-align: center;
+	float: left;
+}
+article {
+	background-color: #777777;
+	text-align: center;
+
+}
+h1 {
+	background-color: #EBEBEB;
+	text-align: center;
+}
+p{
+	background-color: #EBEBEB;
+	text-align: center;
+}
+aside{
+	background-color: #EBEBEB;
+	text-align: center;
+
+}
+footer{
+	background-color: #EBEBEB;
+	text-align: center;
+}
